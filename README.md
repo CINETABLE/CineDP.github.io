@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages欢迎来到CineTable电影计划。
+## CineTable 电影计划
 
-You can use the [editor on GitHub](https://github.com/CINETABLE/cinetable.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我是一名国内十八线电影学院摄影系在读的学渣。
+
+你可以在这里获取到一些电影制作流程的学习资料、工作教程。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,14 +30,17 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Table
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CINETABLE/cinetable.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2000年出生。
+
 
 ### Support or Contact
 
 E-Mail: Film.Maker@foxmail.com
+
 QQ：596320036
+
 WeChat: Clll05
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如果您有疑问，欢迎通过以上方式和我取得联系。
